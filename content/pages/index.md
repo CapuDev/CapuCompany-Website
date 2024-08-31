@@ -191,5 +191,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Capu Company VR
+metaTitle: CapuCompany VR
 ---
