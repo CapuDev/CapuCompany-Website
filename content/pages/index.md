@@ -37,4 +37,11 @@ sections:
     actions: []
 metaTitle: CapuCompany VR
 socialImage: /images/gamebanner.png
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
