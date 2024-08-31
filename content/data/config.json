@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Download",
-                "altText": "",
+                "altText": "Download the game",
                 "url": "/download",
                 "showIcon": false,
                 "icon": "arrowRight",
