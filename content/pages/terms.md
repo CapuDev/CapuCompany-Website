@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Terms of Service
-    subtitle: The section subtitle
+    subtitle: Not done yet
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
