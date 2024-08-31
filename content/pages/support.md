@@ -5,8 +5,8 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
-    subtitle: The section subtitle
+    title: Support
+    subtitle: Will be adding account management in the future
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
