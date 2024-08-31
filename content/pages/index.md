@@ -36,4 +36,5 @@ sections:
     type: HeroSection
     actions: []
 metaTitle: CapuCompany VR
+socialImage: /images/gamebanner.png
 ---
