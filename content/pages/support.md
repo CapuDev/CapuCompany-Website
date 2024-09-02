@@ -32,9 +32,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
         label: Swift
         url: ''
       - type: Label
