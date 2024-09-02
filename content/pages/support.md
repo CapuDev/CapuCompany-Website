@@ -46,6 +46,7 @@ sections:
           - pl-96
           - pr-5
         justifyContent: flex-end
+        borderWidth: 4
       title:
         textAlign: center
       subtitle:
