@@ -40,5 +40,7 @@
                 "width": "full"
             }
         }
-    }
+    },
+    "titleSuffix": "| CapuCompany VR",
+    "defaultSocialImage": "/images/gamebanner.png"
 }
