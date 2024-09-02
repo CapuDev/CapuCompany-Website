@@ -29,7 +29,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: Login with Meta
