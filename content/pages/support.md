@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Support
-    subtitle: Will be adding account management in the future
+    subtitle: Will be adding account management in the future.
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
