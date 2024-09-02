@@ -27,30 +27,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: LabelsSection
-    title: ''
-    subtitle: ''
-    items:
-      - type: Label
-        label: Login with Meta
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-14
-          - pl-96
-          - pr-5
-        justifyContent: flex-end
-        borderWidth: 0
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
