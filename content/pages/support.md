@@ -45,7 +45,7 @@ sections:
           - pb-14
           - pl-96
           - pr-5
-        justifyContent: center
+        justifyContent: flex-end
       title:
         textAlign: center
       subtitle:
