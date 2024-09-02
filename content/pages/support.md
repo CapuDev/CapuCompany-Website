@@ -38,9 +38,6 @@ sections:
         label: Netlify
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: Swift
         url: ''
       - type: Label
