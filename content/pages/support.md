@@ -34,7 +34,7 @@ sections:
       - type: Label
         label: Login with Meta
         url: ''
-    colors: colors-f
+    colors: colors-e
     elementId: ''
     styles:
       self:
