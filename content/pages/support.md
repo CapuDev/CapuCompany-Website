@@ -41,10 +41,10 @@ sections:
         label: Pancakes
         url: ''
       - type: Label
-        label: C++
+        label: Swift
         url: ''
       - type: Label
-        label: Swift
+        label: C++
         url: ''
     colors: colors-f
     elementId: ''
