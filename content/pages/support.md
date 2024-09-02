@@ -32,7 +32,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: C++
+        label: Login with Meta
         url: ''
     colors: colors-f
     elementId: ''
