@@ -32,9 +32,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
         label: Netlify
         url: ''
       - type: Label
