@@ -44,7 +44,7 @@ sections:
           - pt-0
           - pb-14
           - pl-96
-          - pr-10
+          - pr-5
         justifyContent: center
       title:
         textAlign: center
