@@ -32,9 +32,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: React
-        url: ''
-      - type: Label
         label: Microsoft Office
         url: ''
       - type: Label
