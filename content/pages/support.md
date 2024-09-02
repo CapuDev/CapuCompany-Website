@@ -27,38 +27,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: LabelsSection
-    title: ''
-    subtitle: ''
-    items:
-      - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
-        label: Swift
-        url: ''
-      - type: Label
-        label: C++
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
