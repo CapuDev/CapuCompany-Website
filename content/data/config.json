@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Capu.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -22,6 +22,16 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Support",
+                "altText": "Get Support",
+                "url": "/support",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
