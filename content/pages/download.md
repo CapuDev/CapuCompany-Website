@@ -6,7 +6,9 @@ sections:
     colors: colors-f
     variant: variant-a
     title: DOWNLOAD THIS GAME
-    subtitle: The section subtitle
+    subtitle: >-
+      Note: there still are bugs. This is only a demo of how the actual game
+      will feel.
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
