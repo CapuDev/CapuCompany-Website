@@ -19,6 +19,7 @@ sections:
       *   <https://capudev.itch.io/capucompany> (Main Itch Page)
 
       *   <https://elliot-kjdvr.itch.io/capucompany> (Secondary Itch Page)
+
           **DO NOT DOWNLOAD THE GAME FROM ANY OTHER PAGE, THOSE PAGES ARE FAKE AND ARE TRYING TO STEAL YOUR IP**
 
     elementId: ''
