@@ -9,7 +9,11 @@ sections:
     subtitle: >-
       Note: there still are bugs. This is only a demo of how the actual game
       will feel.
-    text: |
+    text: |+
+
+
+
+
       ## DOWNLOADS
 
       *   [Meta Quest Page](https://meta.com/experiences/7918774941542807)
@@ -20,6 +24,7 @@ sections:
 
       *   <https://elliot-kjdvr.itch.io/capucompany> (Secondary Itch Page)
           **DO NOT DOWNLOAD THE GAME FROM ANY OTHER PAGE, THOSE PAGES ARE FAKE AND ARE TRYING TO STEAL YOUR IP**
+
     elementId: ''
     styles:
       self:
