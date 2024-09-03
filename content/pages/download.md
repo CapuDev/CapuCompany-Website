@@ -10,9 +10,7 @@ sections:
       Note: there still are bugs. This is only a demo of how the actual game
       will feel.
     text: |+
-
-
-
+      ##
 
       ## DOWNLOADS
 
