@@ -35,7 +35,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-metaTitle: CapuCompany VR
+metaTitle: Home
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
