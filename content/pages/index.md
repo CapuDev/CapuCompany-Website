@@ -39,7 +39,7 @@ metaTitle: CapuCompany VR
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Background_8K.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
