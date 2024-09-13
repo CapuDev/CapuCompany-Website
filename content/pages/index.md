@@ -35,7 +35,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-metaTitle: 'Home '
+metaTitle: Home
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
