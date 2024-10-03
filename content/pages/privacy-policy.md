@@ -34,4 +34,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+metaTitle: Privacy Policy
 ---
