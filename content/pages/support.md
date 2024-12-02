@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Support
-    subtitle: Will be adding account management in the future.
+    subtitle: Support Tickets coming soon....
     text: ''
     elementId: ''
     styles:
