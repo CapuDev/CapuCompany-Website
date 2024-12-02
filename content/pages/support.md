@@ -7,9 +7,7 @@ sections:
     variant: variant-a
     title: Support
     subtitle: Will be adding account management in the future.
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: ''
     elementId: ''
     styles:
       self:
