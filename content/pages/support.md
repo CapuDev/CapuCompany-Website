@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Support
+    title: 'Support '
     subtitle: Support Tickets coming soon....
     text: ''
     elementId: ''
