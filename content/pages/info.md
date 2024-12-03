@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ## This is Capu Company.
+      ## More information here.
 
     styles:
       self:
@@ -40,4 +40,25 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    subtitle: ''
+    title: This is Capu Company.
+    actions:
+      - type: Button
+        label: Privacy Policy
+        altText: ''
+        url: 'https://capucompanyvr.com/privacy-policy/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Terms of Service
+        altText: ''
+        url: 'https://capucompanyvr.com/terms/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 ---
