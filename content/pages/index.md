@@ -48,6 +48,6 @@ metaDescription: 'CapuCompany is a Lethal Company X Gorilla Tag Fan Game, with s
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: ''
     content: ''
 ---
