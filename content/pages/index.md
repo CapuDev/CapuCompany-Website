@@ -55,5 +55,5 @@ metaTags:
     content: CapuCompany
   - type: MetaTag
     property: 'og:type'
-    content: ''
+    content: Game
 ---
