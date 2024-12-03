@@ -54,6 +54,6 @@ metaTags:
     property: 'og:site_name'
     content: CapuCompany
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:type'
     content: ''
 ---
