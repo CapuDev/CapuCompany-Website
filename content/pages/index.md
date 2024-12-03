@@ -49,7 +49,7 @@ addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: CapuCompany Official Website
+    content: CapuDev
   - type: MetaTag
     property: 'og:site_name'
     content: CapuCompany
@@ -59,4 +59,8 @@ metaTags:
   - type: MetaTag
     property: 'og:description'
     content: 'This is the official website of the VR game, CapuCompany!'
+  - type: MetaTag
+    property: 'og:image'
+    content: >-
+      https://github.com/TheTechWiz5305/CapuCompany-Website/blob/main/public/images/gamebanner.png?raw=true
 ---
