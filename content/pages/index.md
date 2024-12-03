@@ -58,5 +58,5 @@ metaTags:
     content: Game
   - type: MetaTag
     property: 'og:description'
-    content: ''
+    content: 'This is the official website of the VR game, CapuCompany!'
 ---
