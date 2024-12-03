@@ -45,4 +45,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 metaDescription: 'CapuCompany is a Lethal Company X Gorilla Tag Fan Game, with so much to do!'
+addTitleSuffix: true
 ---
