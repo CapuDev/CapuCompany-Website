@@ -9,18 +9,21 @@ sections:
     subtitle: >-
       Note: there still are bugs. This is only a demo of how the actual game
       will feel.
-    text: |+
+    text: >+
       ### **DOWNLOADS**
+
 
       *   [Meta Quest Page](https://meta.com/experiences/7918774941542807)
 
+
       *   No SideQuest page at the moment :(
 
-      *   <https://capudev.itch.io/capucompany> (Main Itch Page)
 
-      *   <https://elliot-kjdvr.itch.io/capucompany> (Secondary Itch Page)
+      *   <https://capudev.itch.io/capucompany>
 
-          **DO NOT DOWNLOAD THE GAME FROM ANY OTHER PAGE, THOSE PAGES ARE FAKE AND ARE TRYING TO STEAL YOUR IP**
+
+      *   **DO NOT DOWNLOAD THE GAME FROM ANY OTHER PAGE, THOSE PAGES ARE FAKE
+      AND ARE TRYING TO STEAL YOUR IP**
 
     elementId: ''
     styles:
