@@ -56,4 +56,7 @@ metaTags:
   - type: MetaTag
     property: 'og:type'
     content: Game
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
