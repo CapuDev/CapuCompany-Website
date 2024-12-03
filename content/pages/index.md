@@ -49,5 +49,5 @@ addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: CapuCompany Official Website
 ---
