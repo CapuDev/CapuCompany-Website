@@ -10,6 +10,11 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Info",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
                 "label": "Download",
                 "altText": "Download the game",
                 "url": "/download",
@@ -17,11 +22,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
             },
             {
                 "type": "Link",
