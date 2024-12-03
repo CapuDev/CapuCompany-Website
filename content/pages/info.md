@@ -52,4 +52,13 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://capucompanyvr.com/terms/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 ---
