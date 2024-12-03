@@ -41,4 +41,5 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     subtitle: ''
+    title: a
 ---
