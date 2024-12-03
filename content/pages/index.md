@@ -49,7 +49,7 @@ addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: CapuCompany
+    content: CapuDev
   - type: MetaTag
     property: 'og:site_name'
     content: CapuCompany
