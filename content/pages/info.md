@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ## This is Capu Company.
+      ## More information here.
 
     styles:
       self:
