@@ -40,7 +40,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: ''
+    subtitle: More info here.
     title: ''
     actions:
       - type: Button
