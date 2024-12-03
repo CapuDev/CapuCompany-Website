@@ -40,7 +40,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: More info here
+    subtitle: ''
     title: '## This is Capu Company.'
     actions:
       - type: Button
