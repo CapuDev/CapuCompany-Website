@@ -41,7 +41,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     subtitle: More info here
-    title: ''
+    title: '## This is Capu Company.'
     actions:
       - type: Button
         label: Privacy Policy
