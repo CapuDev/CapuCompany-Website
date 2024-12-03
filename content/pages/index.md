@@ -52,5 +52,5 @@ metaTags:
     content: CapuCompany Official Website
   - type: MetaTag
     property: 'og:site_name'
-    content: ''
+    content: CapuCompany
 ---
