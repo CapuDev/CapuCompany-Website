@@ -42,4 +42,14 @@ sections:
     type: HeroSection
     subtitle: ''
     title: ''
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://capucompanyvr.com/privacy-policy/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 ---
