@@ -44,7 +44,7 @@ sections:
     title: ''
     actions:
       - type: Button
-        label: Learn more
+        label: Privacy Policy
         altText: ''
         url: 'https://capucompanyvr.com/privacy-policy/'
         showIcon: false
