@@ -10,6 +10,11 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Info",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
                 "label": "Support",
                 "altText": "Get Support",
                 "url": "/support",
@@ -17,11 +22,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
             },
             {
                 "type": "Link",
