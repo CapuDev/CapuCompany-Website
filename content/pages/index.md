@@ -61,5 +61,6 @@ metaTags:
     content: 'This is the official website of the VR game, CapuCompany!'
   - type: MetaTag
     property: 'og:image'
-    content: ''
+    content: >-
+      https://github.com/TheTechWiz5305/CapuCompany-Website/blob/main/public/images/gamebanner.png?raw=true
 ---
