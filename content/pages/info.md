@@ -53,7 +53,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Terms of Service
         altText: ''
         url: 'https://capucompanyvr.com/terms/'
         showIcon: false
