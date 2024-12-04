@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: W.I.P
     subtitle: Work in Progress
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      This will be worked on soon
     elementId: ''
     styles:
       self:
