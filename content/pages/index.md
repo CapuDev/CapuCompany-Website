@@ -35,10 +35,22 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Download the Game
+        altText: Open The Meta Horizon Store Page
+        url: 'https://meta.com/experiences/7918774941542807'
+        showIcon: true
+        icon: cart
+        iconPosition: left
+        style: secondary
+        elementId: ''
     text: >+
       <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
       Company Fan Game</sup></sub>*</div>
+
+
+      <div style="text-align: center"></div>
 
 metaTitle: Home
 socialImage: /images/gamebanner.png
