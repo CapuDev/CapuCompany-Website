@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: >-
           https://www.meta.com/en-gb/experiences/capucompany/7918774941542807/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
