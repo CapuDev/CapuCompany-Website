@@ -41,7 +41,7 @@ sections:
         altText: Open The Meta Horizon Store Page
         url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
-        icon: cart
+        icon: apple
         iconPosition: left
         style: secondary
         elementId: ''
