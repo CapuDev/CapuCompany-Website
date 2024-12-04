@@ -43,7 +43,7 @@ sections:
         showIcon: true
         icon: cart
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
     text: >+
       <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
