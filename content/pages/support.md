@@ -29,7 +29,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/WebOrangeTheme.png
+  url: /images/WebRedTheme.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
