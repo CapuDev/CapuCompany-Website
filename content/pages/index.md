@@ -36,9 +36,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
-      Company Fan Game</sup></sub>*</div>
+    text: |+
+      <div style="text-align: center"># <sub><sup></sup></sub>k</div>
 
 metaTitle: Home
 socialImage: /images/gamebanner.png
