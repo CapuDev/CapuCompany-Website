@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome to capucompany
-    subtitle: The Gorilla Tag x Lethal Company Fan Game
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -26,7 +26,8 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
@@ -35,6 +36,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
+      Company Fan Game</sup></sub>*</div>
+
 metaTitle: Home
 socialImage: /images/gamebanner.png
 backgroundImage:
