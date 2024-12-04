@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Downloa
+title: Download
 sections:
   - type: TextSection
     colors: colors-f
