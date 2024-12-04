@@ -39,8 +39,7 @@ sections:
       - type: Button
         label: Download
         altText: ''
-        url: >-
-          https://www.meta.com/en-gb/experiences/capucompany/7918774941542807/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect
+        url: 'https://www.meta.com/experiences/7918774941542807'
         showIcon: true
         icon: arrowRight
         iconPosition: right
