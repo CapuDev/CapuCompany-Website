@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
-        icon: linkedin
+        icon: cart
         iconPosition: right
         style: primary
         elementId: ''
