@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: W.I.P
-    subtitle: The section subtitle
+    subtitle: Work in Progress
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
