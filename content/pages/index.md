@@ -40,7 +40,7 @@ sections:
         label: Download
         altText: ''
         url: 'https://www.meta.com/experiences/7918774941542807'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
