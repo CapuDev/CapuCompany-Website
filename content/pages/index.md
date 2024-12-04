@@ -40,7 +40,7 @@ sections:
         label: Download the Game
         altText: ''
         url: 'https://meta.com/experiences/7918774941542807'
-        showIcon: true
+        showIcon: false
         icon: play
         iconPosition: right
         style: primary
