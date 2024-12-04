@@ -38,7 +38,7 @@
                 "label": "Learn more",
                 "altText": "",
                 "url": "/privacy-policy",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
