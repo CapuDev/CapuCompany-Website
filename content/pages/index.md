@@ -69,7 +69,7 @@ metaTags:
     content: CapuCompany
   - type: MetaTag
     property: 'og:site_name'
-    content: CapuCompany
+    content: CapuDev
   - type: MetaTag
     property: 'og:type'
     content: Game
