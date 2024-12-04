@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: 'https://www.meta.com/experiences/7918774941542807'
         showIcon: false
-        icon: apple
+        icon: play
         iconPosition: right
         style: primary
         elementId: ''
