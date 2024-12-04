@@ -37,7 +37,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Download
+        label: Download the Game
         altText: ''
         url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
