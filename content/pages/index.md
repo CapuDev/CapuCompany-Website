@@ -42,7 +42,7 @@ sections:
         url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
         icon: cart
-        iconPosition: left
+        iconPosition: right
         style: secondary
         elementId: ''
     text: >+
