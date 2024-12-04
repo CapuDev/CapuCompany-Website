@@ -38,7 +38,7 @@ sections:
     actions:
       - type: Button
         label: Download the Game
-        altText: ''
+        altText: Open The Meta Horizon Store Page
         url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
         icon: cart
