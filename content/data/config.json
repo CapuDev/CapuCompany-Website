@@ -32,16 +32,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/privacy-policy",
-                "showIcon": false,
-                "icon": "apple",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [],
