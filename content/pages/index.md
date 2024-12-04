@@ -40,7 +40,7 @@ sections:
       <div style="text-align: center"># <sub><sup></sup></sub>k</div>
 
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
