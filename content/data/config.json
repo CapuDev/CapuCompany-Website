@@ -38,7 +38,7 @@
                 "label": "Learn more",
                 "altText": "",
                 "url": "/privacy-policy",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "apple",
                 "iconPosition": "right",
                 "elementId": ""
