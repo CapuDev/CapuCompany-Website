@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome to capucompany
-    subtitle: ''
+    subtitle: The Gorilla Tag x Lethal Company Fan Game
     styles:
       self:
         height: auto
