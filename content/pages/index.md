@@ -39,7 +39,7 @@ sections:
       - type: Button
         label: Download
         altText: ''
-        url: 'https://www.meta.com/experiences/7918774941542807'
+        url: 'https://meta.com/experiences/7918774941542807'
         showIcon: true
         icon: play
         iconPosition: right
