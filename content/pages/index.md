@@ -36,8 +36,16 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |+
-      <div style="text-align: center"># <sub><sup></sup></sub>k</div>
+    text: >+
+      <div style="text-align: center"># The Gorilla Tag x Lethal Company Fan
+      Game</div>
+
+
+
+
+
+
+      <div style="text-align: center"></div>
 
   - type: LabelsSection
     title: ''
