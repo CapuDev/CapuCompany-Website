@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Suppor
+title: Support
 sections:
   - type: TextSection
     colors: colors-f
