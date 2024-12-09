@@ -49,7 +49,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://discord.gg/capucompany'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
