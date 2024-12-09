@@ -47,7 +47,7 @@ sections:
         elementId: ''
       - type: Button
         label: Join the Discord
-        altText: ''
+        altText: Launches the invite in a new tab.
         url: 'https://discord.gg/capucompany'
         showIcon: true
         icon: send
