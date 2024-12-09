@@ -46,7 +46,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Join the Discord
         altText: ''
         url: 'https://discord.gg/capucompany'
         showIcon: true
