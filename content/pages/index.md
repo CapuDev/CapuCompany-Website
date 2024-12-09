@@ -50,7 +50,7 @@ sections:
         altText: ''
         url: 'https://discord.gg/capucompany'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
