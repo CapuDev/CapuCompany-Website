@@ -61,7 +61,7 @@ sections:
 
       <div style="text-align: center"></div>
 
-metaTitle: Home
+metaTitle: Home | CapuCompany
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
@@ -88,5 +88,5 @@ metaTags:
   - type: MetaTag
     property: 'og:image'
     content: >-
-      https://github.com/TheTechWiz5305/CapuCompany-Website/blob/main/public/images/gamebanner.png?raw=true
+      https://scontent-bos5-1.oculuscdn.com/v/t64.5771-25/38974517_1101091778321944_5968810895025744936_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=l4tLmFZOhkIQ7kNvgGrVsPO&_nc_zt=3&_nc_ht=scontent-bos5-1.oculuscdn.com&oh=00_AYAe1P05MSh1PLup4_ZYBzsFvUsYOfmcj2Rl_q0ohm6Dig&oe=675D10CB
 ---
