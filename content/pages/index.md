@@ -61,7 +61,7 @@ sections:
 
       <div style="text-align: center"></div>
 
-metaTitle: Home
+metaTitle: Home | CapuCompany
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
