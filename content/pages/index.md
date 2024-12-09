@@ -52,7 +52,7 @@ sections:
         showIcon: true
         icon: send
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     text: >+
       <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
