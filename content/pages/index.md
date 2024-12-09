@@ -45,6 +45,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Join the Discord
+        altText: Launches the invite in a new tab.
+        url: 'https://discord.gg/capucompany'
+        showIcon: true
+        icon: send
+        iconPosition: left
+        style: secondary
+        elementId: ''
     text: >+
       <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
       Company Fan Game</sup></sub>*</div>
