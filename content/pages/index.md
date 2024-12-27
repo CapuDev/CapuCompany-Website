@@ -83,7 +83,7 @@ sections:
       - type: ImageBlock
         url: /images/1.png
         altText: The Ship
-        caption: Caption of the image
+        caption: The Ship
         elementId: ''
     colors: colors-f
     spacing: 16
