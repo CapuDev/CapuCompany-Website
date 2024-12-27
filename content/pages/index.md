@@ -62,7 +62,7 @@ sections:
       <div style="text-align: center"></div>
 
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
