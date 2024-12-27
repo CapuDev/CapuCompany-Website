@@ -82,7 +82,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/1.png
-        altText: altText of the image
+        altText: The Ship
         caption: Caption of the image
         elementId: ''
     colors: colors-f
