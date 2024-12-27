@@ -78,7 +78,7 @@ sections:
       - type: ImageBlock
         url: /images/3.png
         altText: The Facility
-        caption: Image four caption
+        caption: The Facility
         elementId: ''
       - type: ImageBlock
         url: /images/1.png
