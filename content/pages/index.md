@@ -73,7 +73,7 @@ sections:
       - type: ImageBlock
         url: /images/2.png
         altText: VOW moon
-        caption: Image three caption
+        caption: VOW moon
         elementId: ''
       - type: ImageBlock
         url: /images/3.png
