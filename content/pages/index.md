@@ -81,7 +81,7 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: /images/3.png
+        url: /images/4.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
