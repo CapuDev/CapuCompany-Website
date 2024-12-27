@@ -61,6 +61,51 @@ sections:
 
       <div style="text-align: center"></div>
 
+  - type: MediaGallerySection
+    title: ''
+    subtitle: 'What you will see around the game:'
+    images:
+      - type: ImageBlock
+        url: /images/5.png
+        altText: Main Menu
+        caption: Main Menu
+        elementId: ''
+      - type: ImageBlock
+        url: /images/2.png
+        altText: VOW moon
+        caption: VOW moon
+        elementId: ''
+      - type: ImageBlock
+        url: /images/3.png
+        altText: The Facility
+        caption: The Facility
+        elementId: ''
+      - type: ImageBlock
+        url: /images/1.png
+        altText: The Ship
+        caption: The Ship
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 metaTitle: Home | CapuCompany
 socialImage: /images/gamebanner.png
 backgroundImage:
