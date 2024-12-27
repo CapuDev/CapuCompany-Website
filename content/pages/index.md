@@ -66,7 +66,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/5.png
         altText: Image two
         caption: Image two caption
         elementId: ''
