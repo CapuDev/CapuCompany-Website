@@ -67,7 +67,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/5.png
-        altText: Image two
+        altText: Main Menu
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
