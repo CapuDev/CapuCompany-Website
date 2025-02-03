@@ -76,7 +76,7 @@ sections:
         caption: VOW moon
         elementId: ''
       - type: ImageBlock
-        url: /images/3.png
+        url: /images/31.png
         altText: The Facility
         caption: The Facility
         elementId: ''
