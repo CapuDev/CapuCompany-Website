@@ -29,7 +29,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/WebBG1Darker.png
+  url: /images/WebBG1Darker1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
