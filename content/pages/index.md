@@ -66,22 +66,22 @@ sections:
     subtitle: 'What you will see around the game:'
     images:
       - type: ImageBlock
-        url: /images/5.png
+        url: /images/51.png
         altText: Main Menu
         caption: Main Menu
         elementId: ''
       - type: ImageBlock
-        url: /images/2.png
+        url: /images/21.png
         altText: VOW moon
         caption: VOW moon
         elementId: ''
       - type: ImageBlock
-        url: /images/3.png
+        url: /images/31.png
         altText: The Facility
         caption: The Facility
         elementId: ''
       - type: ImageBlock
-        url: /images/1.png
+        url: /images/11.png
         altText: The Ship
         caption: The Ship
         elementId: ''
