@@ -110,7 +110,7 @@ metaTitle: Home | CapuCompany
 socialImage: /images/gamebanner.png
 backgroundImage:
   type: BackgroundImage
-  url: /images/Background_8K.png
+  url: /images/Background website.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
