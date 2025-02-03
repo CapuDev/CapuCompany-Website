@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/WebBG1Lighter.png
+  url: /images/WebBG1Lighter1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
