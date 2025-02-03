@@ -71,7 +71,7 @@ sections:
         caption: Main Menu
         elementId: ''
       - type: ImageBlock
-        url: /images/2.png
+        url: /images/21.png
         altText: VOW moon
         caption: VOW moon
         elementId: ''
