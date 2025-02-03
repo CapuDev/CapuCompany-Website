@@ -81,7 +81,7 @@ sections:
         caption: The Facility
         elementId: ''
       - type: ImageBlock
-        url: /images/1.png
+        url: /images/11.png
         altText: The Ship
         caption: The Ship
         elementId: ''
