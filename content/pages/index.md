@@ -66,7 +66,7 @@ sections:
     subtitle: 'What you will see around the game:'
     images:
       - type: ImageBlock
-        url: /images/5.png
+        url: /images/51.png
         altText: Main Menu
         caption: Main Menu
         elementId: ''
