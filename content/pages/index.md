@@ -59,7 +59,7 @@ sections:
         altText: ''
         url: /404
         showIcon: true
-        icon: arrowRight
+        icon: chevronLeft
         iconPosition: left
         style: primary
         elementId: ''
