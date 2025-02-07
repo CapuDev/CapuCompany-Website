@@ -60,7 +60,7 @@ sections:
         url: /404
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     text: >
