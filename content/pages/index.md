@@ -55,7 +55,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Open the Asset Kit
         altText: ''
         url: ''
         showIcon: false
