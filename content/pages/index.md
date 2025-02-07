@@ -54,6 +54,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: Open the Asset Kit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >
       <div style="text-align: center"># <sub><sup>*The Gorilla Tag x Lethal
       Company Fan Game!*</sup></sub></div>
