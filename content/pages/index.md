@@ -54,13 +54,12 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-    text: >+
-      <div style="text-align: center"># *<sub><sup>The Gorilla Tag x Lethal
-      Company Fan Game</sup></sub>*</div>
+    text: >
+      <div style="text-align: center"># <sub><sup>*The Gorilla Tag x Lethal
+      Company Fan Game!*</sup></sub></div>
 
 
       <div style="text-align: center"></div>
-
   - type: MediaGallerySection
     title: ''
     subtitle: 'What you will see around the game:'
