@@ -57,7 +57,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: Open the Asset Kit
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
