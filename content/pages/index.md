@@ -58,7 +58,7 @@ sections:
         label: Open the Asset Kit
         altText: ''
         url: /404
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
