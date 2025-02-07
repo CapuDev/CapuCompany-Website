@@ -54,6 +54,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Open the Asset Kit
+        altText: ''
+        url: /404
+        showIcon: true
+        icon: chevronRight
+        iconPosition: left
+        style: secondary
+        elementId: ''
     text: >
       <div style="text-align: center"># <sub><sup>*The Gorilla Tag x Lethal
       Company Fan Game!*</sup></sub></div>
@@ -105,6 +114,19 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
 metaTitle: Home | CapuCompany
 socialImage: /images/gamebanner.png
 backgroundImage:
